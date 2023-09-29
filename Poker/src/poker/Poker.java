@@ -5,7 +5,7 @@ package poker;
  * The Class Poker.
  */
 
-//test main branches
+//test commit only
 
 public class Poker {
 	
