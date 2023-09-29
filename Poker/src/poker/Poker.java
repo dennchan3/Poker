@@ -5,7 +5,7 @@ package poker;
  * The Class Poker.
  */
 
-//test branches
+//test main branches
 
 public class Poker {
 	
